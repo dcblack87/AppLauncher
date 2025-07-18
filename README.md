@@ -73,7 +73,7 @@ App Launcher is your all-in-one product launch studio that transforms the comple
 
 ### For Users
 
-1. **Sign Up**: Create your free account at [applauncher.io](https://applauncher.io)
+1. **Sign Up**: Create your free account at [applauncher.io](https://www.applauncher.io)
 2. **Complete Your Profile**: Set up your organization and team
 3. **Create Your First Launch**: Use our guided setup to create your product launch
 4. **Build Your Brand**: Upload assets and define your brand identity
