@@ -197,8 +197,8 @@ App Launcher takes security and privacy seriously:
 
 We welcome contributions from the community! Here's how you can help:
 
-1. **Feature Requests**: Share your ideas on our [feedback board](https://applauncher.io/feedback)
-2. **Bug Reports**: Report issues through our [support system](https://applauncher.io/support)
+1. **Feature Requests**: Share your ideas on our [feedback board](https://applauncher.io/feedback/features)
+2. **Bug Reports**: Report issues through our [support system](https://applauncher.io/feedback/bugs)
 3. **Documentation**: Help improve our documentation
 4. **Community**: Help other users in our Discord community
 
