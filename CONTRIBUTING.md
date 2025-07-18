@@ -336,7 +336,7 @@ Report violations to [community@applauncher.io](mailto:community@applauncher.io)
 - **Discord**: Real-time community support
 - **Community Forum**: Longer-form discussions
 - **Stack Overflow**: Technical questions tagged with `applauncher`
-- **Reddit**: [r/applauncher](https://reddit.com/r/applauncher)
+- **Reddit**: [r/applauncher](https://reddit.com/r/shipyourapp)
 
 ### Direct Support
 - **General Questions**: [community@applauncher.io](mailto:community@applauncher.io)
