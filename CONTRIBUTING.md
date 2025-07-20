@@ -7,7 +7,7 @@ Thank you for your interest in contributing to App Launcher! We welcome contribu
 ### 1. Feature Requests
 Help us improve App Launcher by suggesting new features or enhancements.
 
-- **Submit Ideas**: Share your ideas on our [feedback board](https://feedback.applauncher.io)
+- **Submit Ideas**: Share your ideas on our [feedback board](https://www.applauncher.io/feedback/features)
 - **Vote on Features**: Support features you'd like to see implemented
 - **Detailed Proposals**: Provide detailed use cases and requirements
 - **Community Discussion**: Engage with other users about proposed features
@@ -15,7 +15,7 @@ Help us improve App Launcher by suggesting new features or enhancements.
 ### 2. Bug Reports
 Help us identify and fix issues in the platform.
 
-- **Report Bugs**: Submit detailed bug reports through our [support system](https://support.applauncher.io)
+- **Report Bugs**: Submit detailed bug reports through our [support system](https://www.applauncher.io/feedback/bugs)
 - **Reproduction Steps**: Provide clear steps to reproduce issues
 - **Screenshots**: Include screenshots or videos when helpful
 - **Environment Details**: Share your browser, OS, and other relevant details
@@ -49,12 +49,12 @@ Build integrations and tools for the App Launcher ecosystem.
 ### 1. Join Our Community
 - **Discord**: [Join our Discord server](https://discord.gg/applauncher) for real-time discussions
 - **GitHub**: [Follow our GitHub](https://github.com/applauncher) for updates and discussions
-- **Twitter**: [Follow us on Twitter](https://twitter.com/applauncher) for announcements
-- **Newsletter**: [Subscribe to our newsletter](https://applauncher.io/newsletter) for updates
+- **Twitter**: [Follow us on Twitter](https://twitter.com/davidwentnomad) for announcements
+- **Newsletter**: [Subscribe to our newsletter](https://applauncher.io/blog) for updates
 
 ### 2. Understand Our Platform
 - **Try App Launcher**: [Sign up for a free account](https://applauncher.io/auth/register)
-- **Read Documentation**: Familiarize yourself with our [documentation](https://docs.applauncher.io)
+- **Read Documentation**: Familiarize yourself with our [documentation](https://www.applauncher.io)
 - **Explore Features**: Try out different features to understand the platform
 - **Follow the Playbook**: Use our [Launch Playbook](https://applauncher.io/playbook) to understand the launch process
 
@@ -70,7 +70,7 @@ Build integrations and tools for the App Launcher ecosystem.
 
 #### Before Submitting
 1. **Search Existing Requests**: Check if your idea has already been suggested
-2. **Review Roadmap**: Look at our [public roadmap](https://roadmap.applauncher.io)
+2. **Review Roadmap**: Look at our [public roadmap](https://www.applauncher.io)
 3. **Consider Use Cases**: Think about how your feature would benefit other users
 4. **Gather Feedback**: Discuss your idea in our Discord community first
 
